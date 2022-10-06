@@ -1,0 +1,7 @@
+D:\DotnetAssigments\Day2Ass\Day2Ass\bin\Debug\Day2Ass.exe.config
+D:\DotnetAssigments\Day2Ass\Day2Ass\bin\Debug\Day2Ass.exe
+D:\DotnetAssigments\Day2Ass\Day2Ass\bin\Debug\Day2Ass.pdb
+D:\DotnetAssigments\Day2Ass\Day2Ass\obj\Debug\Day2Ass.csproj.AssemblyReference.cache
+D:\DotnetAssigments\Day2Ass\Day2Ass\obj\Debug\Day2Ass.csproj.CoreCompileInputs.cache
+D:\DotnetAssigments\Day2Ass\Day2Ass\obj\Debug\Day2Ass.exe
+D:\DotnetAssigments\Day2Ass\Day2Ass\obj\Debug\Day2Ass.pdb
