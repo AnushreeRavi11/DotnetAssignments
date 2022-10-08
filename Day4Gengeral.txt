@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GeneralAss
+{
+    
+    class Program
+    { 
+        
+        public static void Display( )
+        {
+            Console.WriteLine("Enter a FirstName" );
+            string Fname= Console.ReadLine();
+            Console.WriteLine("Enter as LastName ");
+            String Lname = Console.ReadLine();
+            Console.WriteLine("Firstname is{0 }", Fname.ToUpper());
+            Console.WriteLine(  "Lastname is {0}", Lname.ToUpper());
+
+
+            }
+
+        public static void occur()
+        {
+            Console.WriteLine(" Enter a  String value   " );
+             string value  =  Console.ReadLine();
+            Console.WriteLine("Enter a   Single charater ");
+             string Charater  = Console.ReadLine();
+            int count = 0;
+            int i = 0;
+            {
+                for  (i= 0;i< value.Length; i++)
+                {
+                    if(value ==Charater)
+                    count++;
+                }
+            }
+            if (count > 0)
+            {
+                Console.WriteLine("The Given value {0}, the repeated {1},",value,Charater );
+
+
+            }
+
+        }
+
+        static  void Main(string[] args)
+        {
+
+            Display();
+            occur();
+            Console.ReadLine();
+
+
+
+        }
+    }
+}
