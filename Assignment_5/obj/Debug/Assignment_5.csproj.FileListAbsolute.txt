@@ -1,0 +1,10 @@
+D:\DotnetAssigments\Assignment_5\bin\Debug\Assignment_5.exe.config
+D:\DotnetAssigments\Assignment_5\bin\Debug\Assignment_5.exe
+D:\DotnetAssigments\Assignment_5\bin\Debug\Assignment_5.pdb
+D:\DotnetAssigments\Assignment_5\obj\Debug\Assignment_5.csproj.AssemblyReference.cache
+D:\DotnetAssigments\Assignment_5\obj\Debug\Assignment_5.csproj.CoreCompileInputs.cache
+D:\DotnetAssigments\Assignment_5\obj\Debug\Assignment_5.exe
+D:\DotnetAssigments\Assignment_5\obj\Debug\Assignment_5.pdb
+D:\DotnetAssigments\Assignment_5\bin\Debug\ClassLibrary2.dll
+D:\DotnetAssigments\Assignment_5\bin\Debug\ClassLibrary2.pdb
+D:\DotnetAssigments\Assignment_5\obj\Debug\Assignment_5.csproj.CopyComplete

@@ -1,0 +1,5 @@
+D:\DotnetAssigments\Assignment_5\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\DotnetAssigments\Assignment_5\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\DotnetAssigments\Assignment_5\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\DotnetAssigments\Assignment_5\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\DotnetAssigments\Assignment_5\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
