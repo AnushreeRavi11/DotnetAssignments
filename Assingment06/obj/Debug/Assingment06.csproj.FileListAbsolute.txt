@@ -1,0 +1,7 @@
+D:\DotnetAssigments\Assingment06\Assingment06\obj\Debug\Assingment06.csproj.AssemblyReference.cache
+D:\DotnetAssigments\Assingment06\Assingment06\obj\Debug\Assingment06.csproj.CoreCompileInputs.cache
+D:\DotnetAssigments\Assingment06\Assingment06\bin\Debug\Assingment06.exe.config
+D:\DotnetAssigments\Assingment06\Assingment06\bin\Debug\Assingment06.exe
+D:\DotnetAssigments\Assingment06\Assingment06\bin\Debug\Assingment06.pdb
+D:\DotnetAssigments\Assingment06\Assingment06\obj\Debug\Assingment06.exe
+D:\DotnetAssigments\Assingment06\Assingment06\obj\Debug\Assingment06.pdb
