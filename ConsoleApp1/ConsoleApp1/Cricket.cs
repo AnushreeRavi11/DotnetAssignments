@@ -26,11 +26,10 @@ namespace ConsoleApp1
 
 
 
-           Avg_Calculation(sum, no_of_matches);
 
 
 
-           return scores.ToList();
+          
         }
 
         }
