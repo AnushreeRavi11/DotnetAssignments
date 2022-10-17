@@ -16,6 +16,22 @@ namespace ConsoleApp1
             Console.WriteLine("Enter No of matches: ");
             int matches = Convert.ToInt32(Console.ReadLine());
 
+            
+              void Avg_Calculation(int Total, int matches)
+            {
+                Console.WriteLine("The Total score of all matches are: " + sum);
+                avg = sum / no_of_matches;
+                Console.WriteLine("The avg score is: " + avg);
+            }
+
+
+
+           Avg_Calculation(sum, no_of_matches);
+
+
+
+           return scores.ToList();
+        }
 
         }
     }
